@@ -1,3 +1,5 @@
+Themes found in this repo are now in their own repo. This repo will no longer be active. 
+
 # Zsh Themes
 
 All the zsh themes in this repo use a Japanese kanji as the first character in the prompt. They are very similar in terms of the prompt structure; the main differences are the use of colors and first character.
